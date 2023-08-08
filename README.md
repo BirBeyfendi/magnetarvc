@@ -1,4 +1,4 @@
-# MagnetarVC ( Dikkat! Bu Repo Çalışmamaktadır.)
+# MagnetarVC ( Dikkat! Bu Repo Çalışmamaktadır. )
 
 <p align="center">
   <img width="200"
