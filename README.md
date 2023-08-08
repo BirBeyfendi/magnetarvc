@@ -1,4 +1,4 @@
-# MagnetarVC
+# MagnetarVC ( Dikkat! Bu Bot Çalışmamaktadır.)
 
 <p align="center">
   <img width="200"
