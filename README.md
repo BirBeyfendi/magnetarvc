@@ -1,4 +1,4 @@
-# MagnetarVC ( Dikkat! Bu Bot Çalışmamaktadır.)
+# MagnetarVC ( Dikkat! Bu Repo Çalışmamaktadır.)
 
 <p align="center">
   <img width="200"
